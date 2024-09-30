@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/KD1-Utkarsh-83585/KD1-Utkarsh-83585/blob/main/gitBanner.gif)
+![Masterhead](https://github.com/KD1-Utkarsh-83585/KD1-Utkarsh-83585/blob/main/headImage.gif)
 
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A passionate frontend/Backend developer from India !</h3>
