@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **utkarshsingh379@gmail.com**
 
-- ⚡ Fun fact **I don’t do fun... Fun does me!**
+- ⚡ Fun fact **How do you comfort a JavaScript bug? You console it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
